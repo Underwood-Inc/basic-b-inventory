@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EEE",
+    "EME",
+    "EEE"
+  ],
+  "key": {
+    "E": {
+      "item": "minecraft:ender_eye"
+    },
+    "M": {
+      "item": "magicalstorage:magical_storage_interface"
+    }
+  },
+  "result": {
+    "item": "magicalstorage:upgraded_magical_storage_interface"
+  }
+}
