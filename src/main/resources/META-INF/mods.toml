@@ -1,0 +1,30 @@
+modLoader="javafml"
+loaderVersion="[50,)"
+license="MIT"
+
+[[mods]]
+modId="magicalstorage"
+version="${file.jarVersion}"
+displayName="Magical Storage"
+description='''
+A magical storage mod that provides an interface block for accessing inventories.
+Features include range upgrades with ender pearls, remote access via wand tool,
+and ritual circle upgrades with sacrificial items.
+'''
+authors="MagicalStorageTeam"
+credits="Minecraft Forge Team"
+logoFile="logo.png"
+
+[[dependencies.magicalstorage]]
+modId="forge"
+mandatory=true
+versionRange="[50.0.0,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.magicalstorage]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.21.9,1.22)"
+ordering="NONE"
+side="BOTH"

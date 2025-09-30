@@ -1,0 +1,13 @@
+{
+  "block.magicalstorage.magical_storage_interface": "Magical Storage Interface",
+  "block.magicalstorage.upgraded_magical_storage_interface": "Upgraded Magical Storage Interface",
+  "item.magicalstorage.magical_wand": "Magical Wand",
+  "itemGroup.magicalstorage": "Magical Storage",
+  "message.magicalstorage.no_interfaces_found": "No upgraded interfaces found nearby",
+  "message.magicalstorage.interface_ready_for_linking": "Interface ready for linking",
+  "message.magicalstorage.no_interfaces_nearby": "No upgraded interfaces nearby",
+  "message.magicalstorage.not_enough_eye_of_ender": "Not enough Eye of Ender",
+  "message.magicalstorage.inventory_linked": "Inventory linked successfully",
+  "container.magicalstorage.magical_storage_interface": "Magical Storage Interface",
+  "container.magicalstorage.upgraded_magical_storage_interface": "Upgraded Magical Storage Interface"
+}

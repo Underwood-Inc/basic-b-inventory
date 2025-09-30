@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "magicalstorage:block/magical_storage_interface"
+    }
+  }
+}

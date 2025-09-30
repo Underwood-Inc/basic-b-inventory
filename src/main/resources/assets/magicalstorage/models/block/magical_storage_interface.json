@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "magicalstorage:block/magical_storage_interface"
+  }
+}
